@@ -6,6 +6,6 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
 http://cxf.apache.org/jaxws http://cxf.apache.org/schemas/jaxws.xsd">
 
 <jaxws:endpoint id="changeStudent" 
-              implementor="com.student.ChangeStudentDetailsImpl" address="/ChangeStudnet" />
+              implementor="com.student.ChangeStudentDetailsImpl" address="/ChangeStudent" />
               
 </beans>
